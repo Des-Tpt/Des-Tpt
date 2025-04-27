@@ -18,7 +18,7 @@
 ---
 
 ## 📜 Ongoing Rituals
-- 🕸️ Time to sleep... Wake up someday...
+- ⚔️ Currently in the dungeon, searching for a way to defeat the twin beasts—one forged in the fires of N.E.T., the other born of the ancient powers of W.I.N.F.O.R.M.
 
 ---
 
