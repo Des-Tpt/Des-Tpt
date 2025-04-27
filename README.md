@@ -18,9 +18,7 @@
 ---
 
 ## 📜 Ongoing Rituals
-- 🕸️ Binding souls into a finance grimmoire (Personal Finance App)
-- 🕯️ Transcribing chronicles of the soulbound empires (Fantasy Novel)
-- 🩸 Reviving the marketplace of forbidden tomes (Bookstore Website)
+- 🕸️ Time to sleep... Wake up someday...
 
 ---
 
