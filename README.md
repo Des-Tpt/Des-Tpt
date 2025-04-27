@@ -34,7 +34,7 @@
 ---
 
 ## 🔮 Arcane Skills
-![My Skills](https://skillicons.dev/icons?i=php,python,java,html,css,typescript)
+![My Skills](https://skillicons.dev/icons?i=php,python,java,html,css,javascript,typescript)
 
 
 ---
