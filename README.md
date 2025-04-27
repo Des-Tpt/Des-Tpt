@@ -1,4 +1,4 @@
-<div align="center">
+
 # ☠️ Summoned from the Abyss...
 
 > "In the void between life and decay, I weave spells of code to command forgotten realms."
@@ -51,6 +51,4 @@
 ---
   
 *May your loops be endless, and your bugs be but echoes in the void...*
-
-</div>
 
