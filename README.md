@@ -1,6 +1,3 @@
-![Necromancer Castle](https://cdnb.artstation.com/p/assets/images/images/074/932/141/4k/emilie-vaccarini-castle-far-away-as.jpg?1713322943)
-[Art belong to Emilie Vaccarini](https://www.artstation.com/evdg)...
-
 # ☠️ Summoned from the Abyss...
 
 > "In the void between life and decay, I weave spells of code to command forgotten realms."
