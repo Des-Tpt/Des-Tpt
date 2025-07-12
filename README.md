@@ -18,7 +18,7 @@
 ---
 
 ## 📜 Ongoing Rituals
-- ⚔️ Currently in the dungeon, searching for a way to defeat the twin beasts—one forged in the fires of .N.E.T, the other born of the ancient powers of W.I.N.F.O.R.M.
+- ⚔️ Currently in the dungeon...
 
 ---
 
@@ -33,7 +33,6 @@
 
 ## 🔮 Arcane Skills
 ![My Skills](https://skillicons.dev/icons?i=php,python,java,html,css,javascript,typescript)
-
 
 ---
 
